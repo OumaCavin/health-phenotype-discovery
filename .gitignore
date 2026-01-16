@@ -37,6 +37,7 @@ env/
 # Data
 data/raw/*.csv
 !data/raw/.gitkeep
+!data/raw/nhanes_health_data.csv
 data/processed/*
 !data/processed/.gitkeep
 
